@@ -1,0 +1,11 @@
+1. Give an overview of what the breach was and the motivations behind it.
+
+More than 264 million records were exposed from a database in 2019.
+
+2. Explain where the “tech flaws” were, and how hackers were able to breach their system.
+
+The database was unsecured and wasn't secured with a password. The data was available for nearly 2 weeks.
+
+3. What has the company done to protect against that vulnerability since?
+
+Nothing has been publicly stated by Facebook.
